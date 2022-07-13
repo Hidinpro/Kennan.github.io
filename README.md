@@ -1,3 +1,2 @@
-# Kennan.github.io
-Kennan的个人主页
-主页还在建立中
+# 欢迎来到我的主页
+Kennan的个人主页还在建立中
