@@ -1,0 +1,1 @@
+/home/zhihzen/ftp_client/build/../bin/ftp

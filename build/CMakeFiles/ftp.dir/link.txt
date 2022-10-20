@@ -1,0 +1,1 @@
+gcc  -Wall -Werror   CMakeFiles/ftp.dir/home/zhihzen/ftp_client/main.c.o CMakeFiles/ftp.dir/home/zhihzen/ftp_client/ftp_client.c.o  -o ftp -ltools 
